@@ -1,0 +1,14 @@
+transformation:
+  target: dev
+  outputs:
+    dev:
+      dbname: etl_db
+      host: localhost
+      pass: etl_password
+      port: 5434
+      schema: public
+      threads: 1
+      type: postgres
+      user: etl_user
+    target: dev
+      

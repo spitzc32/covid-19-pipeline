@@ -1,0 +1,6 @@
+dagster
+dagster-postgres
+dagster_aws
+dagster-docker
+sqlalchemy
+pandas
